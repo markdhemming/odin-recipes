@@ -1,3 +1,7 @@
+html {
+    border: solid;
+}
+
 .heading {
     color: white;
     font-size: 18px;
